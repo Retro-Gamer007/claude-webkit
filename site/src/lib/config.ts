@@ -5,7 +5,7 @@ export const BUSINESS = {
   state: "NJ",
   // Número principal (el que aparece en los flyers grandes).
   mainPhone: "7328291070",
-  url: "https://transportes-hermanos-ordaz.vercel.app",
+  url: "https://raites-ordaz.netlify.app",
 };
 
 export type Brother = {
