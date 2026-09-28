@@ -1,5 +1,5 @@
 # Built landing page
-site/
+# (site/ se versiona en esta rama: app de Transportes Hermanos Ordaz)
 build/
 
 # Dependencies
@@ -37,3 +37,5 @@ yarn-error.log*
 playwright-cli-screenshots/
 *.png
 !docs/**/*.png
+!site/public/**/*.png
+!site/src/app/*.png
