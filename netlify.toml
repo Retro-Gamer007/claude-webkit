@@ -1,5 +1,0 @@
-# La app de Transportes Hermanos Ordaz vive en site/
-[build]
-  base = "site"
-  command = "npm run build"
-  publish = ".next"
